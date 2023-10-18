@@ -15,7 +15,7 @@ focusing in particular on working with arrays.
 ## Screenshots: 📷
 
 ### Main Page
-![image](https://github.com/tugbaesat/react-form-app/assets/114342008/a0e26afb-1dd4-4d31-ae8f-13e42a1c384f)
+![image](https://github.com/tugbaesat/react-hooks-state-events-mini-project/assets/114342008/ce4e7def-7225-474f-923f-875e0d359750)
 
 
 ## Authors: 💻
