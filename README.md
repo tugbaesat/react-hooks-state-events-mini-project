@@ -7,7 +7,7 @@ focusing in particular on working with arrays.
 
 ## Live Demo of the Project: 📹
 
-[Tasks App](https://react-form-tugbaesat.vercel.app)
+[Tasks App](https://tasks-app-tugbaesat.vercel.app)
 
 ## Technologies, Frameworks and Libraries: ☕️ 🐍 ⚛️
 - [React](https://react.dev/)
